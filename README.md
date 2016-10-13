@@ -1,6 +1,6 @@
 # github-flow-demo
 
-This is a repo to demo Github flo
+This is a repo to demo GitHub flow
 
 
-By @-kylemacey
+By @kylemacey
